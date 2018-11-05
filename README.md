@@ -64,15 +64,15 @@
 <div class="text-center">
 <p align="center">
   <h1>Transcendence - A Revolução</h1>
-  <img width="460" height="300" src="https://github.com/Engcompaulo/Lista_Filmes_TCC/blob/master/Capas/Filme%20Transcendence%20-%20A%20Revolu%C3%A7%C3%A3o.jpg">
+	<a href="https://github.com/Engcompaulo/Lista_Filmes_TCC/blob/master/Capas/Filme%20Transcendence%20-%20A%20Revolu%C3%A7%C3%A3o.jpg">
+	<img src="https://github.com/Engcompaulo/Lista_Filmes_TCC/blob/master/Capas/Filme%20Transcendence%20-%20A%20Revolu%C3%A7%C3%A3o.jpg" 
+	alt="dust mite" width="100%" title="Transcendence - A Revolução">
+</a>
 </p>
 </div>
 
 
-<a href="https://github.com/Engcompaulo/Lista_Filmes_TCC/blob/master/Capas/Filme%20Transcendence%20-%20A%20Revolu%C3%A7%C3%A3o.jpg">
-<img src="https://github.com/Engcompaulo/Lista_Filmes_TCC/blob/master/Capas/Filme%20Transcendence%20-%20A%20Revolu%C3%A7%C3%A3o.jpg" 
-alt="dust mite" width="100%" title="By Benjamin Combs via Unsplash">
-</a>
+
 
 
 
