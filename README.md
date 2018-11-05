@@ -1,8 +1,8 @@
 <div class="text-center">
-<p align="center">
+
   <h1>Ai Inteligencia Artificial</h1>
   <img width="460" height="300" src="https://github.com/Engcompaulo/Lista_Filmes_TCC/blob/master/Capas/Filme%20%20Ai%20Inteligencia%20Artificial.jpg">
-</p>
+
 </div>
 
 <div class="text-center">
