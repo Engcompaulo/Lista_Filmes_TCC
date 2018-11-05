@@ -1,23 +1,47 @@
 <p align="center">
   <h1></h1>
-  <img width="460" height="300" src="https://github.com/Engcompaulo/Lista_Filmes_TCC/Capas/Filme%20Chappie.jpg">
+  <img width="460" height="300" src="https://github.com/Engcompaulo/Lista_Filmes_TCC/blob/master/Capas/Filme%20%20Ai%20Inteligencia%20Artificial.jpg">
 </p>
 <p align="center">
   <h1></h1>
-  <img width="460" height="300" src="https://github.com/Engcompaulo/Lista_Filmes_TCC/Capas/Filme Ai Inteligencia Artificial.jpg">
+  <img width="460" height="300" src="https://github.com/Engcompaulo/Lista_Filmes_TCC/blob/master/Capas/Filme%20Blade%20Runner%202049.jpg">
 </p>
 <p align="center">
   <h1></h1>
-  <img width="460" height="300" src="https://github.com/Engcompaulo/Lista_Filmes_TCC/Capas/Filme Ai Inteligencia Artificial.jpg">
+  <img width="460" height="300" src="https://github.com/Engcompaulo/Lista_Filmes_TCC/blob/master/Capas/Filme%20Chappie.jpg">
 </p>
 <p align="center">
   <h1></h1>
-  <img width="460" height="300" src="https://github.com/Engcompaulo/Lista_Filmes_TCC/Capas/Filme Ai Inteligencia Artificial.jpg">
+  <img width="460" height="300" src="https://github.com/Engcompaulo/Lista_Filmes_TCC/blob/master/Capas/Filme%20Controle%20Absoluto.jpg">
 </p>
 <p align="center">
   <h1></h1>
-  <img width="460" height="300" src="https://github.com/Engcompaulo/Lista_Filmes_TCC/Capas/Filme Ai Inteligencia Artificial.jpg">
+  <img width="460" height="300" src="https://github.com/Engcompaulo/Lista_Filmes_TCC/blob/master/Capas/Filme%20Eu%20Robo.jpg">
 </p>
+<p align="center">
+  <h1></h1>
+  <img width="460" height="300" src="https://github.com/Engcompaulo/Lista_Filmes_TCC/blob/master/Capas/Filme%20Ghost%20in%20the%20Shell.jpg">
+</p>
+<p align="center">
+  <h1></h1>
+  <img width="460" height="300" src="https://github.com/Engcompaulo/Lista_Filmes_TCC/blob/master/Capas/Filme%20Matrix.jpg">
+</p>
+<p align="center">
+  <h1></h1>
+  <img width="460" height="300" src="https://github.com/Engcompaulo/Lista_Filmes_TCC/blob/master/Capas/Filme%20Os%20Vingadores%20Era%20de%20Ultron.jpg">
+</p>
+<p align="center">
+  <h1></h1>
+  <img width="460" height="300" src="https://github.com/Engcompaulo/Lista_Filmes_TCC/blob/master/Capas/Filme%20Tron%20-%20O%20Legado.jpg">
+</p>
+
+<p align="center">
+  <h1></h1>
+  <img width="460" height="300" src="https://github.com/Engcompaulo/Lista_Filmes_TCC/blob/master/Capas/Filme%20Eu%20Robo.jpg">
+</p>
+
+
+
 
 
 Filme Ai Inteligencia Artificial.jpg	Capas e nomes dos filmes	9 days ago
