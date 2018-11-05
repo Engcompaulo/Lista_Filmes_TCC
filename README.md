@@ -1,18 +1,18 @@
 <h1>Ai Inteligencia Artificial</h1>
 <p align="center">
-<imgsrc="https://github.com/Engcompaulo/Lista_Filmes_TCC/blob/master/Capas/Filme%20%20Ai%20Inteligencia%20Artificial.jpg"
+<img src="https://github.com/Engcompaulo/Lista_Filmes_TCC/blob/master/Capas/Filme%20%20Ai%20Inteligencia%20Artificial.jpg"
 alt="Ai Inteligencia Artificial"  height="40%" width="80%" title="Ai Inteligencia Artificial">
 </p>
 
 <h1>Blade Runner 2049</h1>
 <p align="center">
-<imgsrc="https://github.com/Engcompaulo/Lista_Filmes_TCC/blob/master/Capas/Filme%20Blade%20Runner%202049.jpg"
+<img src="https://github.com/Engcompaulo/Lista_Filmes_TCC/blob/master/Capas/Filme%20Blade%20Runner%202049.jpg"
 alt="Blade Runner 2049"  height="40%" width="80%" title="Blade Runner 2049">
 </p> 
 
 <h1>Chappie</h1>
 <p align="center">
-<imgsrc="https://github.com/Engcompaulo/Lista_Filmes_TCC/blob/master/Capas/Filme%20Chappie.jpg"
+<img src="https://github.com/Engcompaulo/Lista_Filmes_TCC/blob/master/Capas/Filme%20Chappie.jpg"
 alt="Chappie"  height="40%" width="80%" title="Chappie">
 </p> 
 
