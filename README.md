@@ -67,8 +67,10 @@
   <h1 >Transcendence - A Revolução</h1>
   </div>
 	<a href="https://github.com/Engcompaulo/Lista_Filmes_TCC/blob/master/Capas/Filme%20Transcendence%20-%20A%20Revolu%C3%A7%C3%A3o.jpg">
+	<p align="center">
 	<img src="https://github.com/Engcompaulo/Lista_Filmes_TCC/blob/master/Capas/Filme%20Transcendence%20-%20A%20Revolu%C3%A7%C3%A3o.jpg" 
 	alt="dust mite"  height="40%" width="80%" title="Transcendence - A Revolução">
+	</p>
 </a>
 
 </div>
