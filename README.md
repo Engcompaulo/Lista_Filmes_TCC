@@ -57,36 +57,12 @@ alt="Tron - O Legado"  height="40%" width="80%" title="Tron - O Legado">
 <h1 >Transcendence - A Revolução</h1>
 <p align="center">
 <img src="https://github.com/Engcompaulo/Lista_Filmes_TCC/blob/master/Capas/Filme%20Transcendence%20-%20A%20Revolu%C3%A7%C3%A3o.jpg" 
-alt="Transcendence - A Revolução"  height="40%" width="80%" title="Transcendence - A Revolução">
+alt="Transcendence - A Revolução"  height="400" width="800" title="Transcendence - A Revolução">
 </p>
 
 
 
-<table >
-<tr> 
-	<td>
-		<div class="centro"><h1>Tron - O Legado</h1></div>	
-			<p align="center">
-				<img src="https://github.com/Engcompaulo/Lista_Filmes_TCC/blob/master/Capas/Filme%20Tron%20-%20O%20Legado.jpg"
-				alt="Tron - O Legado"  height="40%" width="80%" title="Tron - O Legado">
-			</p>
-	</td>
-	<td>  </td>
-	<td>  </td>
-	<td>  </td>
-	<td>  </td>
-	<td>  </td>
-	<td>  </td> 
-	
-    <td> 
-       <div class="centro"><h1>Transcendence - A Revolução</h1></div>	
-		<p align="center">
-			<img src="https://github.com/Engcompaulo/Lista_Filmes_TCC/blob/master/Capas/Filme%20Transcendence%20-%20A%20Revolu%C3%A7%C3%A3o.jpg" 
-			alt="Transcendence - A Revolução"  height="40%" width="80%" title="Transcendence - A Revolução">
-		</p>
-    </td> 
-</tr>
-</table>
+
 
 
 
